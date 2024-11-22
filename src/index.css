@@ -6,6 +6,10 @@
   @apply text-black text-sm font-bold
 }
 
+.menu-arr {
+  @apply text-neutral-500 text-base font-semibold
+}
+
 .header-link {
   @apply text-gray-400 text-lg font-semibold capitalize
 }
@@ -73,4 +77,8 @@
 
 .err {
   @apply text-red-300 text-xs font-medium
+}
+
+.icon {
+  @apply text-neutral-950
 }
